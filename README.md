@@ -1,4 +1,4 @@
-<b> This was the repo for the High Performance Computing class that I took at Stanford , taught by dear Steve Jones. Keeping this repo as a memoir, Enjoyed the class / Go Cardinal .</b>
+<b> This was the repo for the High Performance Computing class that I took at Stanford , taught by dear Steve Jones. Keeping this repo as a memoir, enjoyed the class / # GO CARDINAL .</b>
 
 
 # ME 344
