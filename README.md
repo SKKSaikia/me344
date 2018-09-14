@@ -1,3 +1,6 @@
+<b> This was the repo for the High Performance Computing Class that I took at Stanford , taught by dear Steve Jones. Keeping this repo as a memoir.</b>
+
+
 # ME 344
 
 Welcome to ME 344 - Introduction to High Performance Computing!
